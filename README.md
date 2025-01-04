@@ -10,4 +10,4 @@ The project aims to create a web page containing a table that dynamically displa
 ## Key Code Features
 Dynamic Data: Displays student data (name, age, year) from an array of objects.
 
-link: 
+link: https://moaz2001syr.github.io/Objects-Challenge/
